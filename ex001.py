@@ -8,4 +8,4 @@ Kms = float(input("Km Rodados: "))
 
 # Processamento e Saída
 total = (dias * custo_dia) + (Kms * custo_km)
-print(f"Total a pagar: R$ [total:.2f]")
+print(f"Total a pagar: R$ {total:.2f}")
