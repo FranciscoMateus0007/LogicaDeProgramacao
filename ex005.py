@@ -10,4 +10,4 @@ if n3 > maior: maior = n3
 if n2 < menor: menor = n2
 if n3 < menor: menor = n3
 
-print("Maior: {maior} | Menor: {menor}")
+print(f"Maior: {maior} | Menor: {menor}")
